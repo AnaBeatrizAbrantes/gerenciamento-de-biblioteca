@@ -8,6 +8,10 @@ O sistema foi modelado de forma **independente de banco de dados**, utilizando a
 
 ---
 
+Para acessar o projeto:
+
+---
+
 ## Objetivos do Projeto
 
 * Documentar os requisitos funcionais e não funcionais do sistema
