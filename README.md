@@ -1,4 +1,4 @@
-# Sistema de Biblioteca
+# Sistema de Gerenciamento Biblioteca
 
 ## Visão Geral
 
