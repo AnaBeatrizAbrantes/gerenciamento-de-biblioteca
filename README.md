@@ -45,9 +45,8 @@ Os requisitos funcionais e não funcionais, assim como os diagramas do sistema (
 
 Os protótipos representam a interface do sistema em média fidelidade, focando na organização visual e na usabilidade.
 
-As telas podem ser desenvolvidas utilizando:
+As telas foram desenvolvidas utilizando:
 
-* **Figma**, para prototipação visual
 * **HTML + CSS**, para representação estrutural das interfaces
 
 Telas previstas:
@@ -58,20 +57,6 @@ Telas previstas:
 * Tela de empréstimo
 * Tela de devolução
 * Tela de consulta
-
----
-
-## Implementação e Estrutura de Dados
-
-O sistema utiliza **listas e dicionários em Python** para simular o banco de dados.
-
-Exemplos:
-
-* Lista de usuários
-* Lista de livros
-* Lista de empréstimos
-
-Essa abordagem permite testar toda a lógica do sistema sem dependência de um SGBD.
 
 ---
 
