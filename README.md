@@ -34,52 +34,10 @@ O sistema de biblioteca permite:
 * Registro do histórico de empréstimos
 
 ---
+## Requisitos e Diagramas do Sistema
 
-## Requisitos do Sistema
+Os requisitos funcionais e não funcionais, assim como os diagramas do sistema (Diagrama de Casos de Uso, Diagramas de Atividades e Diagrama Entidade-Relacionamento), estão descritos de forma detalhada na documentação que acompanha este upload. Essa documentação apresenta as funcionalidades do sistema, os fluxos de funcionamento.
 
-### Requisitos Funcionais
-
-* Cadastrar usuários
-* Cadastrar livros
-* Atualizar e remover usuários
-* Atualizar e remover livros
-* Realizar empréstimo de livros
-* Registrar devolução de livros
-* Consultar livros disponíveis
-* Consultar histórico de empréstimos por usuário
-
-### Requisitos Não Funcionais
-
-* Sistema simples e intuitivo
-* Código organizado e legível
-* Testes automatizados para validação das regras de negócio
-* Não utilizar banco de dados externo
-
----
-
-## Diagramas do Sistema
-
-### Diagrama de Casos de Uso
-
-Representa as interações entre os atores (Usuário/Bibliotecário) e o sistema, destacando funcionalidades como cadastro, empréstimo, devolução e consulta.
-
-### Diagramas de Atividades
-
-Descrevem o fluxo de ações do sistema, como:
-
-* Processo de empréstimo de um livro
-* Processo de devolução
-* Processo de cadastro de usuários e livros
-
-### Diagrama Entidade-Relacionamento (DER)
-
-Modela as principais entidades do sistema e seus relacionamentos:
-
-* **Usuário**
-* **Livro**
-* **Empréstimo**
-
-Cada entidade contém seus atributos essenciais, bem como as chaves que definem os relacionamentos.
 
 ---
 
