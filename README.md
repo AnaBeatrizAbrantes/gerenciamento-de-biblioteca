@@ -8,7 +8,7 @@ O sistema foi modelado de forma **independente de banco de dados**, utilizando a
 
 ---
 
-Para acessar o projeto:
+Para acessar o projeto:https://anabeatrizabrantes.github.io/gerenciamento-de-biblioteca/
 
 ---
 
